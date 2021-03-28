@@ -1,0 +1,11 @@
+.header {
+    padding-top: 65px;
+    padding-bottom: 153px;
+
+    @media (max-width:$breakpoint1) {
+        padding-top: 362px;
+        padding-bottom: 31px;
+
+    }
+
+}

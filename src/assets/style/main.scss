@@ -3,8 +3,17 @@
 @import './basics/helpers';
 @import './basics/base';
 @import './basics/typography';
+
 // VIEWS
 @import './views/home';
-
+// CONTAINERS
+@import './containers/header';
+@import './containers/hero';
+@import './containers/testemonials';
+@import './containers/menu-list';
+@import './containers/cta1';
+@import './containers/cta2';
+@import './containers/footer';
 // COMPONENTS
-@import './components/template';
+@import './cmps/dish-preview';
+@import './cmps/button';

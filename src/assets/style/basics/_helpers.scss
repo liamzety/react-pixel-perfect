@@ -1,9 +1,39 @@
+.img-placeholder {
+  width: 540px;
+  height: 720px;
+  background-color: grey;
+}
+
+.container {
+  width: 1110px;
+  margin-left: auto;
+  margin-right: auto;
+
+  @media (max-width:$breakpoint1) {
+    width: 100%;
+    padding-left: 24px;
+    padding-right: 24px;
+  }
+}
+
+.w100 {
+  width: 100%;
+}
+
+.h100 {
+  height: 100%;
+}
+
 .flex {
   display: flex;
 }
 
 .column {
   flex-direction: column;
+}
+
+.align-start {
+  align-items: flex-start;
 }
 
 .justify-center {
@@ -36,44 +66,4 @@
 
 .absolute {
   position: absolute;
-}
-
-.p-x-15 {
-  padding-right: 15px;
-  padding-left: 15px;
-}
-
-.p-y-15 {
-  padding-top: 15px;
-  padding-bottom: 15px;
-}
-
-.p-x-30 {
-  padding-right: 30px;
-  padding-left: 30px;
-}
-
-.p-y-30 {
-  padding-top: 30px;
-  padding-bottom: 30px;
-}
-
-.rotate180 {
-  transform: rotate(180deg);
-}
-
-.rotate90 {
-  transform: rotate(90deg);
-}
-
-.rotate0 {
-  transform: rotate(0);
-}
-
-.cursor-initial {
-  cursor: initial;
-}
-
-.cursor-pointer {
-  cursor: pointer;
 }

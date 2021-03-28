@@ -1,0 +1,72 @@
+.testemonials {
+    background-color: $white1;
+    color: $black2;
+    min-height: 1410px;
+
+    .content-container {
+
+
+        .txt-container {
+            &:first-child {
+                margin-right: 125px;
+            }
+
+            &:last-child {
+                margin-left: 125px;
+            }
+        }
+
+        .img-container {
+            position: relative;
+
+            &:first-of-type {
+                top: -30px;
+            }
+
+            &:last-of-type {
+                bottom: -30px;
+            }
+
+            img {
+                box-shadow: 0px 13px 42px -13px #0000009e;
+                width: 540px;
+                height: 720px;
+
+            }
+        }
+
+
+        @media(max-width:$breakpoint1) {
+            flex-direction: column;
+            text-align: center;
+
+            &:last-child {
+                flex-direction: column-reverse;
+            }
+
+            .txt-container {
+                margin-bottom: 80px;
+
+                &:first-child,
+                &:last-child {
+                    margin-left: 0;
+                    margin-right: 0;
+                }
+
+            }
+
+            .img-container {
+                margin-bottom: 50px;
+
+                &:last-of-type {
+                    bottom: 0;
+                }
+
+                img {
+                    width: 100%;
+
+                }
+            }
+        }
+    }
+}
