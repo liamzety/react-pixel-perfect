@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9a07691c4746e554fd24b68305ce4297",
+    "revision": "096f565d6a150a3b7730ba85660b7d0d",
     "url": "/react-pixel-perfect/index.html"
   },
   {
-    "revision": "a23779d43df1f1eb5aed",
-    "url": "/react-pixel-perfect/static/css/main.9824276a.chunk.css"
+    "revision": "6c8f09f15383726f7939",
+    "url": "/react-pixel-perfect/static/css/main.53f9a395.chunk.css"
   },
   {
-    "revision": "cc64c7947d3b5ab1803b",
-    "url": "/react-pixel-perfect/static/js/2.9064cf9c.chunk.js"
+    "revision": "4d11b4bdb58c1c94f81d",
+    "url": "/react-pixel-perfect/static/js/2.171ba8a1.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/react-pixel-perfect/static/js/2.9064cf9c.chunk.js.LICENSE.txt"
+    "url": "/react-pixel-perfect/static/js/2.171ba8a1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a23779d43df1f1eb5aed",
-    "url": "/react-pixel-perfect/static/js/main.afa90fcd.chunk.js"
+    "revision": "6c8f09f15383726f7939",
+    "url": "/react-pixel-perfect/static/js/main.61901e0d.chunk.js"
   },
   {
     "revision": "73e7de8a5bee8cb6e390",
@@ -38,5 +38,13 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b4fb562294553c65a37927ecf929fad0",
     "url": "/react-pixel-perfect/static/media/bitmap1.b4fb5622.png"
+  },
+  {
+    "revision": "7fdf8f10024ec8e640c6a3aa2e62b305",
+    "url": "/react-pixel-perfect/static/media/food1.7fdf8f10.jpg"
+  },
+  {
+    "revision": "46a73ea4e781a7eca2578d090d62a032",
+    "url": "/react-pixel-perfect/static/media/food2.46a73ea4.jpg"
   }
 ]);
