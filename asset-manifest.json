@@ -1,25 +1,31 @@
 {
   "files": {
-    "main.css": "/react-pixel-perfect/static/css/main.53f9a395.chunk.css",
-    "main.js": "/react-pixel-perfect/static/js/main.61901e0d.chunk.js",
-    "main.js.map": "/react-pixel-perfect/static/js/main.61901e0d.chunk.js.map",
+    "main.css": "/react-pixel-perfect/static/css/main.c591ddf8.chunk.css",
+    "main.js": "/react-pixel-perfect/static/js/main.a47fe781.chunk.js",
+    "main.js.map": "/react-pixel-perfect/static/js/main.a47fe781.chunk.js.map",
     "runtime-main.js": "/react-pixel-perfect/static/js/runtime-main.b3576a65.js",
     "runtime-main.js.map": "/react-pixel-perfect/static/js/runtime-main.b3576a65.js.map",
-    "static/js/2.171ba8a1.chunk.js": "/react-pixel-perfect/static/js/2.171ba8a1.chunk.js",
-    "static/js/2.171ba8a1.chunk.js.map": "/react-pixel-perfect/static/js/2.171ba8a1.chunk.js.map",
+    "static/js/2.81705a4d.chunk.js": "/react-pixel-perfect/static/js/2.81705a4d.chunk.js",
+    "static/js/2.81705a4d.chunk.js.map": "/react-pixel-perfect/static/js/2.81705a4d.chunk.js.map",
     "index.html": "/react-pixel-perfect/index.html",
-    "precache-manifest.c1558029b933e5f011d380ffae57d514.js": "/react-pixel-perfect/precache-manifest.c1558029b933e5f011d380ffae57d514.js",
+    "precache-manifest.bbd52e81007ea4032dd6ac237b88bc69.js": "/react-pixel-perfect/precache-manifest.bbd52e81007ea4032dd6ac237b88bc69.js",
     "service-worker.js": "/react-pixel-perfect/service-worker.js",
-    "static/css/main.53f9a395.chunk.css.map": "/react-pixel-perfect/static/css/main.53f9a395.chunk.css.map",
-    "static/js/2.171ba8a1.chunk.js.LICENSE.txt": "/react-pixel-perfect/static/js/2.171ba8a1.chunk.js.LICENSE.txt",
+    "static/css/main.c591ddf8.chunk.css.map": "/react-pixel-perfect/static/css/main.c591ddf8.chunk.css.map",
+    "static/js/2.81705a4d.chunk.js.LICENSE.txt": "/react-pixel-perfect/static/js/2.81705a4d.chunk.js.LICENSE.txt",
     "static/media/main.scss": "/react-pixel-perfect/static/media/bitmap1.b4fb5622.png",
+    "static/media/filet-mobile.jpg": "/react-pixel-perfect/static/media/filet-mobile.efd16872.jpg",
+    "static/media/filet.png": "/react-pixel-perfect/static/media/filet.f0751b35.png",
     "static/media/food1.jpg": "/react-pixel-perfect/static/media/food1.7fdf8f10.jpg",
-    "static/media/food2.jpg": "/react-pixel-perfect/static/media/food2.46a73ea4.jpg"
+    "static/media/food2.jpg": "/react-pixel-perfect/static/media/food2.46a73ea4.jpg",
+    "static/media/mousse-mobile.jpg": "/react-pixel-perfect/static/media/mousse-mobile.2b57fea2.jpg",
+    "static/media/mousse.png": "/react-pixel-perfect/static/media/mousse.9af1b915.png",
+    "static/media/salmon-mobile.jpg": "/react-pixel-perfect/static/media/salmon-mobile.8f316c5d.jpg",
+    "static/media/salmon.png": "/react-pixel-perfect/static/media/salmon.793c8bf4.png"
   },
   "entrypoints": [
     "static/js/runtime-main.b3576a65.js",
-    "static/js/2.171ba8a1.chunk.js",
-    "static/css/main.53f9a395.chunk.css",
-    "static/js/main.61901e0d.chunk.js"
+    "static/js/2.81705a4d.chunk.js",
+    "static/css/main.c591ddf8.chunk.css",
+    "static/js/main.a47fe781.chunk.js"
   ]
 }
