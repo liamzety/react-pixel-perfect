@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react-pixel-perfect/static/css/main.d883ca55.chunk.css",
-    "main.js": "/react-pixel-perfect/static/js/main.7d21a202.chunk.js",
-    "main.js.map": "/react-pixel-perfect/static/js/main.7d21a202.chunk.js.map",
+    "main.js": "/react-pixel-perfect/static/js/main.bfefd0bf.chunk.js",
+    "main.js.map": "/react-pixel-perfect/static/js/main.bfefd0bf.chunk.js.map",
     "runtime-main.js": "/react-pixel-perfect/static/js/runtime-main.b3576a65.js",
     "runtime-main.js.map": "/react-pixel-perfect/static/js/runtime-main.b3576a65.js.map",
     "static/js/2.2699aba3.chunk.js": "/react-pixel-perfect/static/js/2.2699aba3.chunk.js",
     "static/js/2.2699aba3.chunk.js.map": "/react-pixel-perfect/static/js/2.2699aba3.chunk.js.map",
     "index.html": "/react-pixel-perfect/index.html",
-    "precache-manifest.b0efabe2406dc8f271cf9b4240c62fd5.js": "/react-pixel-perfect/precache-manifest.b0efabe2406dc8f271cf9b4240c62fd5.js",
+    "precache-manifest.3e3afdab7bc91d057e654dbb42ea8e26.js": "/react-pixel-perfect/precache-manifest.3e3afdab7bc91d057e654dbb42ea8e26.js",
     "service-worker.js": "/react-pixel-perfect/service-worker.js",
     "static/css/main.d883ca55.chunk.css.map": "/react-pixel-perfect/static/css/main.d883ca55.chunk.css.map",
     "static/js/2.2699aba3.chunk.js.LICENSE.txt": "/react-pixel-perfect/static/js/2.2699aba3.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.b3576a65.js",
     "static/js/2.2699aba3.chunk.js",
     "static/css/main.d883ca55.chunk.css",
-    "static/js/main.7d21a202.chunk.js"
+    "static/js/main.bfefd0bf.chunk.js"
   ]
 }
