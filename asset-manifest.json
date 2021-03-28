@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-pixel-perfect/static/css/main.c591ddf8.chunk.css",
+    "main.css": "/react-pixel-perfect/static/css/main.452a8809.chunk.css",
     "main.js": "/react-pixel-perfect/static/js/main.a47fe781.chunk.js",
     "main.js.map": "/react-pixel-perfect/static/js/main.a47fe781.chunk.js.map",
     "runtime-main.js": "/react-pixel-perfect/static/js/runtime-main.b3576a65.js",
@@ -8,9 +8,9 @@
     "static/js/2.81705a4d.chunk.js": "/react-pixel-perfect/static/js/2.81705a4d.chunk.js",
     "static/js/2.81705a4d.chunk.js.map": "/react-pixel-perfect/static/js/2.81705a4d.chunk.js.map",
     "index.html": "/react-pixel-perfect/index.html",
-    "precache-manifest.bbd52e81007ea4032dd6ac237b88bc69.js": "/react-pixel-perfect/precache-manifest.bbd52e81007ea4032dd6ac237b88bc69.js",
+    "precache-manifest.694cd72cc7246a66de31b5d6ba1faf82.js": "/react-pixel-perfect/precache-manifest.694cd72cc7246a66de31b5d6ba1faf82.js",
     "service-worker.js": "/react-pixel-perfect/service-worker.js",
-    "static/css/main.c591ddf8.chunk.css.map": "/react-pixel-perfect/static/css/main.c591ddf8.chunk.css.map",
+    "static/css/main.452a8809.chunk.css.map": "/react-pixel-perfect/static/css/main.452a8809.chunk.css.map",
     "static/js/2.81705a4d.chunk.js.LICENSE.txt": "/react-pixel-perfect/static/js/2.81705a4d.chunk.js.LICENSE.txt",
     "static/media/main.scss": "/react-pixel-perfect/static/media/bitmap1.b4fb5622.png",
     "static/media/filet-mobile.jpg": "/react-pixel-perfect/static/media/filet-mobile.efd16872.jpg",
@@ -25,7 +25,7 @@
   "entrypoints": [
     "static/js/runtime-main.b3576a65.js",
     "static/js/2.81705a4d.chunk.js",
-    "static/css/main.c591ddf8.chunk.css",
+    "static/css/main.452a8809.chunk.css",
     "static/js/main.a47fe781.chunk.js"
   ]
 }
