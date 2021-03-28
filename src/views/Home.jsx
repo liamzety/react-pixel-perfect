@@ -1,11 +1,12 @@
 import React from 'react'
-import { Template} from '../cmps/Template'
+import { Template } from '../cmps/Template'
 
-export  function Home() {
+export function Home() {
 
-    return (
-        <section className="home">
-          <Template />
-        </section>
-    )
+  return (
+    <section className="home">
+      <Template />
+          x
+    </section>
+  )
 }
